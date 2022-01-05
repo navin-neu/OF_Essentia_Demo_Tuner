@@ -1,4 +1,4 @@
-# OF_Essentia_Demo - A Yin-Based Tuner
+# OF_Essentia_Demo_Tuner - A Yin-Based Tuner
 
 ## What is this?
 
